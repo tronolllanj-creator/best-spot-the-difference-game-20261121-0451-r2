@@ -1,8 +1,8 @@
 # Twin Tides - Spot the Difference
 
 [![make.fun - best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
-[![Rank Badge](https://img.shields.io/badge/rank-hidden-blue?style=flat-square&logo=github)](https://github.com/tronolllanj-creator/best-spot-the-difference-game-20261121-0451-r2)(https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
-[![Reward Badge](https://img.shields.io/badge/reward-hidden-yellow?style=flat-square&logo=github)](https://github.com/tronolllanj-creator/best-spot-the-difference-game-20261121-0451-r2)(https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/tronolllanj-creator/best-spot-the-difference-game-20261121-0451-r2/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/tronolllanj-creator/best-spot-the-difference-game-20261121-0451-r2/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
 
 Twin Tides is a polished, highly detailed spot-the-difference puzzle game featuring three rich, hand-crafted vector scenes: **Harbor Sunset**, **Midnight Garden**, and **Morning Bakery**. Compare the side-by-side twin panels to spot subtle changes in color, position, and objects.
 
