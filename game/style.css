@@ -1,0 +1,53 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #0b1020;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: system-ui, -apple-system, sans-serif;
+  color: #f1f5f9;
+  user-select: none;
+}
+
+canvas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1280px;
+  height: 800px;
+  margin-top: -400px;
+  margin-left: -640px;
+  border-radius: 12px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.1);
+  background: #0f172a;
+}
+/* Focus-visible outline for the canvas */
+canvas:focus-visible {
+  outline: 2px solid var(--accent-color, #4a90e2);
+  outline-offset: 4px;
+}
+
+/* Subtle page vignette */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+/* Media query scaling canvas down on small screens while keeping aspect ratio */
+@media (max-width: 768px) {
+  canvas {
+    width: 100%;
+    height: auto;
+    max-width: 100vw;
+    max-height: 80vh;
+    object-fit: contain;
+  }
+}
